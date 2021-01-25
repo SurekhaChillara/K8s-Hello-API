@@ -17,7 +17,7 @@ Set of commands to run :
 8. Once all the components are in ready/running status, run minikube dashboard.
 ```
 
-To start:
+Explanation:
 
 ```
 backend folder has index.js , Dockerfile
